@@ -1,4 +1,6 @@
-Voyage webste
+Voyage website
+Git Hub:
+https://github.com/Tervel10/Voyage_Website_Assesment.git
 
 Welcome to our react js website for tour and traveling experince using react js.
 
